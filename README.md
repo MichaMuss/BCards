@@ -19,12 +19,14 @@ A minor changes made due to project requirements
 
 1. Ceate the next environment variables so the access to them will be <code>process.env.{variable}</code>
 
-* SECRET_KEY=some_secrete_key
+  * SECRET_KEY=some_secrete_key
 
-* DEFAULT_MAIL=mail@domain.com
+  * DEFAULT_MAIL=mail@domain.com
 
-* DEFAULT_PASS=(at least 7 character long, must contain: capital letters, none-capital letters, numbers and special character)
+  * DEFAULT_PASS=(at least 7 character long, must contain: capital letters, none-capital letters, numbers and special character)
 
-1. Navigate to the root folder in the terminal and type <code>node server</code>
+1. Navigate to the root folder in the terminal and type <code>npm i</code> to install the required node packages
+
+1. Type <code>node server</code> after the mode modules installation finished.
 
 1. Wait for the console message that indicates "connected to database and listening to PORT"
