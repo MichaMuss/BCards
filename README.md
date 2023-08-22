@@ -1,4 +1,4 @@
-# Business-card applicatio server
+# Business-card application server
 This code is a Node.js server for react Business card app from the link below.
 
 https://github.com/MichaMuss/bcards-app
