@@ -3,6 +3,12 @@ This code is a Node.js server for react Business card app from the link below.
 
 https://github.com/MichaMuss/bcards-app
 
+the original code is the next git reposity link:
+
+https://github.com/TzachLectures/cards-server
+
+A minor changes made due to project requirements
+
 ## Requirements
 
 1. Install MongoDB
