@@ -1,0 +1,8 @@
+{
+  "apiKey": "124eiuhid12389eh182e",
+  "defaultSiteUrl": "http://127.0.0.1:3000",
+  "DB": "MONGODB",
+  "validator": "Joi",
+  "ENVIRONMENT": "development",
+  "LOGGER": "morgan"
+}
