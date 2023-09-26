@@ -99,8 +99,8 @@ const initializeCards = [{
       registerUser(
         {
           name:{first: "Owner", middle: "", last: "BCards"},
-          email: process.env.DEFAULT_MAIL,
-          password: generateUserPassword(process.env.DEFAULT_PASS),
+          email: "admin@admin.com", // process.env.DEFAULT_MAIL
+          password: generateUserPassword("Abc123!"), //process.env.DEFAULT_PASS
           phone: "055-5555555",
           image: {url: siteUrl + "/assets.images/avatar.png", alt: "User avatar"},
           address: {street: "25 haboersh", houseNumber: 0, city:"Tel Aviv", state: "Center District", country: "Israel",zip: "000000"} ,
